@@ -1,0 +1,501 @@
+ID,Phrase,Sentiment
+1,The plaintiff's claims are dismissed.,Negative
+2,The contract is deemed valid and enforceable.,Positive
+3,The appeal is denied due to lack of merit.,Negative
+4,The legal team submitted additional evidence.,Positive
+5,The appeal is under consideration.,Neutral
+6,The settlement agreement is fair and reasonable.,Positive
+7,The appeal is under consideration.,Neutral
+8,The settlement agreement is fair and reasonable.,Positive
+9,The court reviewed the documentation.,Neutral
+10,The contract is deemed valid and enforceable.,Positive
+11,The contract is deemed valid and enforceable.,Positive
+12,The legal team submitted additional evidence.,Positive
+13,The court reviewed the documentation.,Neutral
+14,The court reviewed the documentation.,Neutral
+15,The court reviewed the documentation.,Neutral
+16,The contract is declared void.,Negative
+17,The appeal is denied due to lack of merit.,Negative
+18,The motion to dismiss is granted.,Positive
+19,The defendant is found guilty.,Negative
+20,The hearing is scheduled for next month.,Neutral
+21,The settlement agreement is fair and reasonable.,Positive
+22,The settlement agreement is fair and reasonable.,Positive
+23,The court reviewed the documentation.,Neutral
+24,The plaintiff's claims are dismissed.,Negative
+25,The plaintiff's claims are dismissed.,Negative
+26,The settlement agreement is fair and reasonable.,Positive
+27,The defendant is found guilty.,Negative
+28,The court finds in favor of the plaintiff.,Positive
+29,The court reviewed the documentation.,Neutral
+30,The settlement agreement is fair and reasonable.,Positive
+31,The motion is denied by the court.,Negative
+32,The legal team submitted additional evidence.,Positive
+33,The appeal is denied due to lack of merit.,Negative
+34,The defendant is acquitted of all charges.,Positive
+35,The settlement agreement is fair and reasonable.,Positive
+36,The contract is declared void.,Negative
+37,The court reviewed the documentation.,Neutral
+38,The legal team submitted additional evidence.,Positive
+39,The appeal is denied due to lack of merit.,Negative
+40,The contract is declared void.,Negative
+41,The legal team submitted additional evidence.,Positive
+42,The plaintiff's claims are dismissed.,Negative
+43,The appeal is denied due to lack of merit.,Negative
+44,The hearing is scheduled for next month.,Neutral
+45,The legal team submitted additional evidence.,Positive
+46,The motion to dismiss is granted.,Positive
+47,The appeal is under consideration.,Neutral
+48,The contract is deemed valid and enforceable.,Positive
+49,The legal team submitted additional evidence.,Positive
+50,The motion is denied by the court.,Negative
+51,The defendant is found guilty.,Negative
+52,The defendant is acquitted of all charges.,Positive
+53,The defendant is acquitted of all charges.,Positive
+54,The contract is declared void.,Negative
+55,The plaintiff's claims are dismissed.,Negative
+56,The hearing is scheduled for next month.,Neutral
+57,The appeal is denied due to lack of merit.,Negative
+58,The plaintiff's claims are dismissed.,Negative
+59,The case was transferred to another jurisdiction.,Neutral
+60,The plaintiff's claims are dismissed.,Negative
+61,The plaintiff's claims are dismissed.,Negative
+62,The case was transferred to another jurisdiction.,Neutral
+63,The court finds in favor of the plaintiff.,Positive
+64,The motion to dismiss is granted.,Positive
+65,The hearing is scheduled for next month.,Neutral
+66,The defendant is found guilty.,Negative
+67,The plaintiff's claims are dismissed.,Negative
+68,The appeal is under consideration.,Neutral
+69,The motion to dismiss is granted.,Positive
+70,The defendant is found guilty.,Negative
+71,The motion is denied by the court.,Negative
+72,The contract is deemed valid and enforceable.,Positive
+73,The court finds in favor of the plaintiff.,Positive
+74,The plaintiff's claims are dismissed.,Negative
+75,The motion to dismiss is granted.,Positive
+76,The motion to dismiss is granted.,Positive
+77,The contract is declared void.,Negative
+78,The plaintiff's claims are dismissed.,Negative
+79,The defendant is found guilty.,Negative
+80,The appeal is under consideration.,Neutral
+81,The appeal is denied due to lack of merit.,Negative
+82,The court reviewed the documentation.,Neutral
+83,The court finds in favor of the plaintiff.,Positive
+84,The settlement agreement is fair and reasonable.,Positive
+85,The plaintiff's claims are dismissed.,Negative
+86,The contract is deemed valid and enforceable.,Positive
+87,The motion to dismiss is granted.,Positive
+88,The appeal is denied due to lack of merit.,Negative
+89,The motion is denied by the court.,Negative
+90,The motion to dismiss is granted.,Positive
+91,The legal team submitted additional evidence.,Positive
+92,The appeal is denied due to lack of merit.,Negative
+93,The plaintiff's claims are dismissed.,Negative
+94,The motion to dismiss is granted.,Positive
+95,The motion to dismiss is granted.,Positive
+96,The court reviewed the documentation.,Neutral
+97,The motion to dismiss is granted.,Positive
+98,The contract is declared void.,Negative
+99,The settlement agreement is fair and reasonable.,Positive
+100,The plaintiff's claims are dismissed.,Negative
+101,The court reviewed the documentation.,Neutral
+102,The legal team submitted additional evidence.,Positive
+103,The motion to dismiss is granted.,Positive
+104,The motion is denied by the court.,Negative
+105,The contract is declared void.,Negative
+106,The hearing is scheduled for next month.,Neutral
+107,The case was transferred to another jurisdiction.,Neutral
+108,The motion is denied by the court.,Negative
+109,The defendant is acquitted of all charges.,Positive
+110,The motion to dismiss is granted.,Positive
+111,The legal team submitted additional evidence.,Positive
+112,The contract is deemed valid and enforceable.,Positive
+113,The defendant is acquitted of all charges.,Positive
+114,The defendant is found guilty.,Negative
+115,The court reviewed the documentation.,Neutral
+116,The court finds in favor of the plaintiff.,Positive
+117,The court reviewed the documentation.,Neutral
+118,The motion to dismiss is granted.,Positive
+119,The case was transferred to another jurisdiction.,Neutral
+120,The motion is denied by the court.,Negative
+121,The contract is deemed valid and enforceable.,Positive
+122,The contract is declared void.,Negative
+123,The appeal is under consideration.,Neutral
+124,The defendant is acquitted of all charges.,Positive
+125,The motion to dismiss is granted.,Positive
+126,The plaintiff's claims are dismissed.,Negative
+127,The motion is denied by the court.,Negative
+128,The legal team submitted additional evidence.,Positive
+129,The settlement agreement is fair and reasonable.,Positive
+130,The motion is denied by the court.,Negative
+131,The contract is declared void.,Negative
+132,The court finds in favor of the plaintiff.,Positive
+133,The motion to dismiss is granted.,Positive
+134,The motion to dismiss is granted.,Positive
+135,The motion to dismiss is granted.,Positive
+136,The settlement agreement is fair and reasonable.,Positive
+137,The contract is deemed valid and enforceable.,Positive
+138,The settlement agreement is fair and reasonable.,Positive
+139,The legal team submitted additional evidence.,Positive
+140,The case was transferred to another jurisdiction.,Neutral
+141,The settlement agreement is fair and reasonable.,Positive
+142,The settlement agreement is fair and reasonable.,Positive
+143,The court reviewed the documentation.,Neutral
+144,The contract is declared void.,Negative
+145,The settlement agreement is fair and reasonable.,Positive
+146,The defendant is acquitted of all charges.,Positive
+147,The court reviewed the documentation.,Neutral
+148,The defendant is found guilty.,Negative
+149,The case was transferred to another jurisdiction.,Neutral
+150,The motion to dismiss is granted.,Positive
+151,The court reviewed the documentation.,Neutral
+152,The appeal is under consideration.,Neutral
+153,The plaintiff's claims are dismissed.,Negative
+154,The case was transferred to another jurisdiction.,Neutral
+155,The hearing is scheduled for next month.,Neutral
+156,The case was transferred to another jurisdiction.,Neutral
+157,The motion to dismiss is granted.,Positive
+158,The settlement agreement is fair and reasonable.,Positive
+159,The court finds in favor of the plaintiff.,Positive
+160,The case was transferred to another jurisdiction.,Neutral
+161,The motion to dismiss is granted.,Positive
+162,The contract is deemed valid and enforceable.,Positive
+163,The defendant is acquitted of all charges.,Positive
+164,The defendant is acquitted of all charges.,Positive
+165,The motion to dismiss is granted.,Positive
+166,The defendant is found guilty.,Negative
+167,The appeal is denied due to lack of merit.,Negative
+168,The case was transferred to another jurisdiction.,Neutral
+169,The appeal is denied due to lack of merit.,Negative
+170,The appeal is under consideration.,Neutral
+171,The court reviewed the documentation.,Neutral
+172,The motion to dismiss is granted.,Positive
+173,The plaintiff's claims are dismissed.,Negative
+174,The settlement agreement is fair and reasonable.,Positive
+175,The contract is deemed valid and enforceable.,Positive
+176,The case was transferred to another jurisdiction.,Neutral
+177,The court finds in favor of the plaintiff.,Positive
+178,The settlement agreement is fair and reasonable.,Positive
+179,The case was transferred to another jurisdiction.,Neutral
+180,The appeal is denied due to lack of merit.,Negative
+181,The contract is deemed valid and enforceable.,Positive
+182,The court finds in favor of the plaintiff.,Positive
+183,The contract is deemed valid and enforceable.,Positive
+184,The hearing is scheduled for next month.,Neutral
+185,The court reviewed the documentation.,Neutral
+186,The plaintiff's claims are dismissed.,Negative
+187,The contract is deemed valid and enforceable.,Positive
+188,The contract is declared void.,Negative
+189,The defendant is acquitted of all charges.,Positive
+190,The plaintiff's claims are dismissed.,Negative
+191,The court reviewed the documentation.,Neutral
+192,The settlement agreement is fair and reasonable.,Positive
+193,The court finds in favor of the plaintiff.,Positive
+194,The hearing is scheduled for next month.,Neutral
+195,The contract is deemed valid and enforceable.,Positive
+196,The contract is deemed valid and enforceable.,Positive
+197,The case was transferred to another jurisdiction.,Neutral
+198,The court finds in favor of the plaintiff.,Positive
+199,The hearing is scheduled for next month.,Neutral
+200,The plaintiff's claims are dismissed.,Negative
+201,The motion is denied by the court.,Negative
+202,The defendant is found guilty.,Negative
+203,The contract is deemed valid and enforceable.,Positive
+204,The plaintiff's claims are dismissed.,Negative
+205,The appeal is under consideration.,Neutral
+206,The defendant is found guilty.,Negative
+207,The settlement agreement is fair and reasonable.,Positive
+208,The motion is denied by the court.,Negative
+209,The hearing is scheduled for next month.,Neutral
+210,The appeal is under consideration.,Neutral
+211,The settlement agreement is fair and reasonable.,Positive
+212,The defendant is acquitted of all charges.,Positive
+213,The court reviewed the documentation.,Neutral
+214,The contract is deemed valid and enforceable.,Positive
+215,The contract is deemed valid and enforceable.,Positive
+216,The settlement agreement is fair and reasonable.,Positive
+217,The motion is denied by the court.,Negative
+218,The appeal is under consideration.,Neutral
+219,The contract is declared void.,Negative
+220,The court reviewed the documentation.,Neutral
+221,The defendant is acquitted of all charges.,Positive
+222,The settlement agreement is fair and reasonable.,Positive
+223,The motion is denied by the court.,Negative
+224,The contract is deemed valid and enforceable.,Positive
+225,The defendant is found guilty.,Negative
+226,The legal team submitted additional evidence.,Positive
+227,The settlement agreement is fair and reasonable.,Positive
+228,The plaintiff's claims are dismissed.,Negative
+229,The case was transferred to another jurisdiction.,Neutral
+230,The settlement agreement is fair and reasonable.,Positive
+231,The appeal is denied due to lack of merit.,Negative
+232,The case was transferred to another jurisdiction.,Neutral
+233,The court reviewed the documentation.,Neutral
+234,The motion to dismiss is granted.,Positive
+235,The settlement agreement is fair and reasonable.,Positive
+236,The case was transferred to another jurisdiction.,Neutral
+237,The plaintiff's claims are dismissed.,Negative
+238,The case was transferred to another jurisdiction.,Neutral
+239,The defendant is acquitted of all charges.,Positive
+240,The defendant is found guilty.,Negative
+241,The contract is deemed valid and enforceable.,Positive
+242,The settlement agreement is fair and reasonable.,Positive
+243,The plaintiff's claims are dismissed.,Negative
+244,The defendant is acquitted of all charges.,Positive
+245,The case was transferred to another jurisdiction.,Neutral
+246,The defendant is found guilty.,Negative
+247,The case was transferred to another jurisdiction.,Neutral
+248,The court finds in favor of the plaintiff.,Positive
+249,The motion to dismiss is granted.,Positive
+250,The plaintiff's claims are dismissed.,Negative
+251,The contract is declared void.,Negative
+252,The contract is declared void.,Negative
+253,The contract is deemed valid and enforceable.,Positive
+254,The contract is declared void.,Negative
+255,The motion to dismiss is granted.,Positive
+256,The defendant is found guilty.,Negative
+257,The case was transferred to another jurisdiction.,Neutral
+258,The contract is declared void.,Negative
+259,The defendant is acquitted of all charges.,Positive
+260,The court reviewed the documentation.,Neutral
+261,The appeal is under consideration.,Neutral
+262,The defendant is found guilty.,Negative
+263,The defendant is found guilty.,Negative
+264,The contract is deemed valid and enforceable.,Positive
+265,The legal team submitted additional evidence.,Positive
+266,The court finds in favor of the plaintiff.,Positive
+267,The appeal is denied due to lack of merit.,Negative
+268,The contract is deemed valid and enforceable.,Positive
+269,The motion to dismiss is granted.,Positive
+270,The contract is declared void.,Negative
+271,The appeal is denied due to lack of merit.,Negative
+272,The contract is deemed valid and enforceable.,Positive
+273,The contract is deemed valid and enforceable.,Positive
+274,The defendant is found guilty.,Negative
+275,The court reviewed the documentation.,Neutral
+276,The settlement agreement is fair and reasonable.,Positive
+277,The settlement agreement is fair and reasonable.,Positive
+278,The defendant is acquitted of all charges.,Positive
+279,The plaintiff's claims are dismissed.,Negative
+280,The motion is denied by the court.,Negative
+281,The contract is declared void.,Negative
+282,The case was transferred to another jurisdiction.,Neutral
+283,The hearing is scheduled for next month.,Neutral
+284,The court reviewed the documentation.,Neutral
+285,The defendant is acquitted of all charges.,Positive
+286,The defendant is found guilty.,Negative
+287,The motion to dismiss is granted.,Positive
+288,The settlement agreement is fair and reasonable.,Positive
+289,The contract is deemed valid and enforceable.,Positive
+290,The settlement agreement is fair and reasonable.,Positive
+291,The contract is declared void.,Negative
+292,The contract is declared void.,Negative
+293,The contract is deemed valid and enforceable.,Positive
+294,The settlement agreement is fair and reasonable.,Positive
+295,The appeal is denied due to lack of merit.,Negative
+296,The case was transferred to another jurisdiction.,Neutral
+297,The contract is declared void.,Negative
+298,The contract is declared void.,Negative
+299,The settlement agreement is fair and reasonable.,Positive
+300,The contract is declared void.,Negative
+301,The contract is deemed valid and enforceable.,Positive
+302,The plaintiff's claims are dismissed.,Negative
+303,The court reviewed the documentation.,Neutral
+304,The plaintiff's claims are dismissed.,Negative
+305,The settlement agreement is fair and reasonable.,Positive
+306,The court reviewed the documentation.,Neutral
+307,The hearing is scheduled for next month.,Neutral
+308,The motion is denied by the court.,Negative
+309,The court finds in favor of the plaintiff.,Positive
+310,The plaintiff's claims are dismissed.,Negative
+311,The contract is declared void.,Negative
+312,The plaintiff's claims are dismissed.,Negative
+313,The appeal is under consideration.,Neutral
+314,The court reviewed the documentation.,Neutral
+315,The plaintiff's claims are dismissed.,Negative
+316,The defendant is acquitted of all charges.,Positive
+317,The defendant is found guilty.,Negative
+318,The court finds in favor of the plaintiff.,Positive
+319,The motion is denied by the court.,Negative
+320,The contract is deemed valid and enforceable.,Positive
+321,The settlement agreement is fair and reasonable.,Positive
+322,The case was transferred to another jurisdiction.,Neutral
+323,The settlement agreement is fair and reasonable.,Positive
+324,The contract is deemed valid and enforceable.,Positive
+325,The hearing is scheduled for next month.,Neutral
+326,The contract is declared void.,Negative
+327,The settlement agreement is fair and reasonable.,Positive
+328,The appeal is under consideration.,Neutral
+329,The court finds in favor of the plaintiff.,Positive
+330,The case was transferred to another jurisdiction.,Neutral
+331,The plaintiff's claims are dismissed.,Negative
+332,The legal team submitted additional evidence.,Positive
+333,The defendant is found guilty.,Negative
+334,The hearing is scheduled for next month.,Neutral
+335,The defendant is found guilty.,Negative
+336,The case was transferred to another jurisdiction.,Neutral
+337,The contract is deemed valid and enforceable.,Positive
+338,The hearing is scheduled for next month.,Neutral
+339,The defendant is acquitted of all charges.,Positive
+340,The hearing is scheduled for next month.,Neutral
+341,The appeal is under consideration.,Neutral
+342,The case was transferred to another jurisdiction.,Neutral
+343,The appeal is denied due to lack of merit.,Negative
+344,The contract is declared void.,Negative
+345,The legal team submitted additional evidence.,Positive
+346,The court finds in favor of the plaintiff.,Positive
+347,The appeal is denied due to lack of merit.,Negative
+348,The settlement agreement is fair and reasonable.,Positive
+349,The settlement agreement is fair and reasonable.,Positive
+350,The court reviewed the documentation.,Neutral
+351,The defendant is acquitted of all charges.,Positive
+352,The court reviewed the documentation.,Neutral
+353,The legal team submitted additional evidence.,Positive
+354,The court reviewed the documentation.,Neutral
+355,The plaintiff's claims are dismissed.,Negative
+356,The case was transferred to another jurisdiction.,Neutral
+357,The contract is deemed valid and enforceable.,Positive
+358,The plaintiff's claims are dismissed.,Negative
+359,The motion is denied by the court.,Negative
+360,The hearing is scheduled for next month.,Neutral
+361,The contract is declared void.,Negative
+362,The plaintiff's claims are dismissed.,Negative
+363,The defendant is acquitted of all charges.,Positive
+364,The defendant is found guilty.,Negative
+365,The court reviewed the documentation.,Neutral
+366,The legal team submitted additional evidence.,Positive
+367,The motion is denied by the court.,Negative
+368,The defendant is acquitted of all charges.,Positive
+369,The motion to dismiss is granted.,Positive
+370,The court reviewed the documentation.,Neutral
+371,The motion is denied by the court.,Negative
+372,The hearing is scheduled for next month.,Neutral
+373,The motion is denied by the court.,Negative
+374,The appeal is denied due to lack of merit.,Negative
+375,The appeal is under consideration.,Neutral
+376,The case was transferred to another jurisdiction.,Neutral
+377,The legal team submitted additional evidence.,Positive
+378,The defendant is acquitted of all charges.,Positive
+379,The contract is declared void.,Negative
+380,The plaintiff's claims are dismissed.,Negative
+381,The contract is deemed valid and enforceable.,Positive
+382,The motion to dismiss is granted.,Positive
+383,The motion is denied by the court.,Negative
+384,The court finds in favor of the plaintiff.,Positive
+385,The hearing is scheduled for next month.,Neutral
+386,The plaintiff's claims are dismissed.,Negative
+387,The motion to dismiss is granted.,Positive
+388,The settlement agreement is fair and reasonable.,Positive
+389,The court finds in favor of the plaintiff.,Positive
+390,The court reviewed the documentation.,Neutral
+391,The case was transferred to another jurisdiction.,Neutral
+392,The motion is denied by the court.,Negative
+393,The settlement agreement is fair and reasonable.,Positive
+394,The appeal is under consideration.,Neutral
+395,The case was transferred to another jurisdiction.,Neutral
+396,The court finds in favor of the plaintiff.,Positive
+397,The settlement agreement is fair and reasonable.,Positive
+398,The settlement agreement is fair and reasonable.,Positive
+399,The plaintiff's claims are dismissed.,Negative
+400,The defendant is acquitted of all charges.,Positive
+401,The contract is deemed valid and enforceable.,Positive
+402,The hearing is scheduled for next month.,Neutral
+403,The legal team submitted additional evidence.,Positive
+404,The legal team submitted additional evidence.,Positive
+405,The motion to dismiss is granted.,Positive
+406,The defendant is found guilty.,Negative
+407,The defendant is found guilty.,Negative
+408,The court reviewed the documentation.,Neutral
+409,The contract is declared void.,Negative
+410,The hearing is scheduled for next month.,Neutral
+411,The appeal is denied due to lack of merit.,Negative
+412,The settlement agreement is fair and reasonable.,Positive
+413,The appeal is under consideration.,Neutral
+414,The motion is denied by the court.,Negative
+415,The case was transferred to another jurisdiction.,Neutral
+416,The defendant is acquitted of all charges.,Positive
+417,The motion to dismiss is granted.,Positive
+418,The motion is denied by the court.,Negative
+419,The contract is deemed valid and enforceable.,Positive
+420,The court finds in favor of the plaintiff.,Positive
+421,The settlement agreement is fair and reasonable.,Positive
+422,The motion is denied by the court.,Negative
+423,The contract is deemed valid and enforceable.,Positive
+424,The case was transferred to another jurisdiction.,Neutral
+425,The contract is declared void.,Negative
+426,The court reviewed the documentation.,Neutral
+427,The hearing is scheduled for next month.,Neutral
+428,The defendant is acquitted of all charges.,Positive
+429,The legal team submitted additional evidence.,Positive
+430,The settlement agreement is fair and reasonable.,Positive
+431,The defendant is found guilty.,Negative
+432,The court finds in favor of the plaintiff.,Positive
+433,The defendant is found guilty.,Negative
+434,The contract is declared void.,Negative
+435,The motion to dismiss is granted.,Positive
+436,The plaintiff's claims are dismissed.,Negative
+437,The court reviewed the documentation.,Neutral
+438,The motion is denied by the court.,Negative
+439,The appeal is denied due to lack of merit.,Negative
+440,The legal team submitted additional evidence.,Positive
+441,The plaintiff's claims are dismissed.,Negative
+442,The contract is declared void.,Negative
+443,The motion is denied by the court.,Negative
+444,The contract is declared void.,Negative
+445,The legal team submitted additional evidence.,Positive
+446,The settlement agreement is fair and reasonable.,Positive
+447,The defendant is acquitted of all charges.,Positive
+448,The court reviewed the documentation.,Neutral
+449,The motion to dismiss is granted.,Positive
+450,The hearing is scheduled for next month.,Neutral
+451,The contract is deemed valid and enforceable.,Positive
+452,The case was transferred to another jurisdiction.,Neutral
+453,The defendant is acquitted of all charges.,Positive
+454,The court reviewed the documentation.,Neutral
+455,The motion to dismiss is granted.,Positive
+456,The appeal is under consideration.,Neutral
+457,The appeal is denied due to lack of merit.,Negative
+458,The plaintiff's claims are dismissed.,Negative
+459,The case was transferred to another jurisdiction.,Neutral
+460,The appeal is denied due to lack of merit.,Negative
+461,The motion to dismiss is granted.,Positive
+462,The court finds in favor of the plaintiff.,Positive
+463,The contract is declared void.,Negative
+464,The legal team submitted additional evidence.,Positive
+465,The court reviewed the documentation.,Neutral
+466,The settlement agreement is fair and reasonable.,Positive
+467,The motion to dismiss is granted.,Positive
+468,The court reviewed the documentation.,Neutral
+469,The settlement agreement is fair and reasonable.,Positive
+470,The defendant is found guilty.,Negative
+471,The court finds in favor of the plaintiff.,Positive
+472,The motion to dismiss is granted.,Positive
+473,The case was transferred to another jurisdiction.,Neutral
+474,The plaintiff's claims are dismissed.,Negative
+475,The motion is denied by the court.,Negative
+476,The court reviewed the documentation.,Neutral
+477,The plaintiff's claims are dismissed.,Negative
+478,The contract is deemed valid and enforceable.,Positive
+479,The plaintiff's claims are dismissed.,Negative
+480,The contract is declared void.,Negative
+481,The plaintiff's claims are dismissed.,Negative
+482,The defendant is found guilty.,Negative
+483,The contract is declared void.,Negative
+484,The motion to dismiss is granted.,Positive
+485,The defendant is acquitted of all charges.,Positive
+486,The motion is denied by the court.,Negative
+487,The plaintiff's claims are dismissed.,Negative
+488,The appeal is denied due to lack of merit.,Negative
+489,The appeal is denied due to lack of merit.,Negative
+490,The legal team submitted additional evidence.,Positive
+491,The court reviewed the documentation.,Neutral
+492,The contract is deemed valid and enforceable.,Positive
+493,The court reviewed the documentation.,Neutral
+494,The case was transferred to another jurisdiction.,Neutral
+495,The legal team submitted additional evidence.,Positive
+496,The contract is declared void.,Negative
+497,The settlement agreement is fair and reasonable.,Positive
+498,The contract is declared void.,Negative
+499,The contract is deemed valid and enforceable.,Positive
+500,The case was transferred to another jurisdiction.,Neutral
